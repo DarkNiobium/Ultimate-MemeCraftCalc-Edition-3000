@@ -1,2 +1,3 @@
 # Ultimate-MemeCraftCalc-Edition-3000
-cringe
+Just a calculator.
+
